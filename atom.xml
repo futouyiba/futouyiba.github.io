@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>游戏人生宋甫</title>
+  <subtitle>一个游戏爱好者与开发者的碎碎念</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-19T13:41:16.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>宋甫</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/04/19/hello-world/"/>
+    <id>http://yoursite.com/2017/04/19/hello-world/</id>
+    <published>2017-04-19T13:41:16.000Z</published>
+    <updated>2017-04-19T13:41:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>这个博客的目标和宗旨</title>
+    <link href="http://yoursite.com/2017/04/18/Start/"/>
+    <id>http://yoursite.com/2017/04/18/Start/</id>
+    <published>2017-04-18T11:14:46.000Z</published>
+    <updated>2017-04-19T07:32:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？"><a href="#世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？" class="headerlink" title="世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？"></a>世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？</h3><p>公众号是一个深度绑定微信的产品。而我们不但渴望连接，还渴望更广阔的连接。因此我们做了这个博客。</p>
+<h3 id="那好，不用公众号，那么也可以架设在新浪、网易等博客平台上呀？"><a href="#那好，不用公众号，那么也可以架设在新浪、网易等博客平台上呀？" class="headerlink" title="那好，不用公众号，那么也可以架设在新浪、网易等博客平台上呀？"></a>那好，不用公众号，那么也可以架设在新浪、网易等博客平台上呀？</h3><p>各个博客平台在我们写博客时都非常方便，但看帖时经常需要有其账号登录才能阅读全文、交流互动，而<strong>【每个人在每个平台上都有一个账号需要管理】本身就是巨大的浪费，和互联网精神十分违背</strong>。我们看到国外大部分的网站都不会这样的强人所难。我们所希望的方式是：</p>
+<ul>
+<li>如果您是第一次来到这个博客，只需要做一些简单的bot验证就能与我们互动</li>
+<li>如果您想长期互动，又有google、微信等账号，直接用这些第三方账号就可登录</li>
+<li>如果恰好您没有其它账户，我们也将提供注册用户的功能<br>当然，现在这些还没有进行开发。不出意外的话开发会在数月后完成。</li>
+</ul>
+<h3 id="此博客会是什么语言的？"><a href="#此博客会是什么语言的？" class="headerlink" title="此博客会是什么语言的？"></a>此博客会是什么语言的？</h3><p>坦率说还没想好。如果有时间的话我们希望能用中文和英文把自己的想法向全世界展示，并和所有感兴趣的人交流。</p>
+<h3 id="此博客是关于什么的？"><a href="#此博客是关于什么的？" class="headerlink" title="此博客是关于什么的？"></a>此博客是关于什么的？</h3><p>我想会包含我们所珍视的一切：</p>
+<ul>
+<li>游戏开发的心得与思路</li>
+<li>其它领域开发的学习分享</li>
+<li>玩游戏的有趣的事情与打法经验</li>
+<li>对人生、社会的思考</li>
+<li>其它八竿子打不着的东西</li>
+</ul>
+<p>See ya！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？&quot;&gt;&lt;a href=&quot;#世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？&quot; class=&quot;headerlink&quot; title=&quot;世界已经被公众号占领，已经没人看博客了，为什么还要做博客呢？&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
